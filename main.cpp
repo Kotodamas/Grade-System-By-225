@@ -123,6 +123,7 @@ void statMenu() {
 }
 
 int main() {
+    system("chcp 65001 > nul");
     loadData();
     int choice;
     do {

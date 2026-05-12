@@ -7,14 +7,16 @@
             "command": "g++.exe",
             "args": [
                 "-g",
+                "-I",
+                "Header file",
                 "main.cpp",
-                "common.cpp",
-                "StudentMgr.cpp",
-                "CourseMgr.cpp",
-                "ScoreMgr.cpp",
-                "Query.cpp",
-                "Stat.cpp",
-                "FileIO.cpp",
+                "Source file/common.cpp",
+                "Source file/StudentMgr.cpp",
+                "Source file/CourseMgr.cpp",
+                "Source file/ScoreMgr.cpp",
+                "Source file/Query.cpp",
+                "Source file/Stat.cpp",
+                "Source file/FileIO.cpp",
                 "-o",
                 "grade_system.exe"
             ],
@@ -23,6 +25,14 @@
                 "isDefault": true
             },
             "problemMatcher": ["$gcc"]
+        },
+        {
+            "label": "clean",
+            "type": "shell",
+            "command": "del",
+            "args": [
+                "grade_system.exe"
+            ]
         }
     ]
 }   
