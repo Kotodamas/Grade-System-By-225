@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++.exe",
+            "args": [
+                "-g",
+                "main.cpp",
+                "common.cpp",
+                "StudentMgr.cpp",
+                "CourseMgr.cpp",
+                "ScoreMgr.cpp",
+                "Query.cpp",
+                "Stat.cpp",
+                "FileIO.cpp",
+                "-o",
+                "grade_system.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}   
