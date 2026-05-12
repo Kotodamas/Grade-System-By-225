@@ -1,6 +1,6 @@
 #ifndef COMMON_H
 #define COMMON_H
-//lxzmjj
+
 #include <iostream>
 #include <string>
 #include <cstring>
