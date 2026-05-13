@@ -1,3 +1,5 @@
+// 负责人 王永浩
+
 #include "CourseMgr.h"
 #include "ScoreMgr.h"
 #include <iostream>
