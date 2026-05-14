@@ -1,4 +1,4 @@
-// 负责人 王永浩
+// 负责人 潘沛启
 
 #include "CourseMgr.h"
 #include "ScoreMgr.h"

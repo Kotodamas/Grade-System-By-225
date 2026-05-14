@@ -1,3 +1,5 @@
+// 负责人 崔景皓
+
 #include "StudentMgr.h"
 #include "ScoreMgr.h"   // 为了同步成绩表中的学号
 #include <iostream>
