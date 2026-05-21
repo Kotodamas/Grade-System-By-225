@@ -1,5 +1,3 @@
-//负责人 吴子恒
-
 #include "Stat.h"
 #include "StudentMgr.h"
 #include "CourseMgr.h"

@@ -1,5 +1,3 @@
-// 负责人 倪泽宇
-
 #include "FileIO.h"
 #include <iostream>
 #include <fstream>

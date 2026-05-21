@@ -1,5 +1,3 @@
-//负责人 王永浩
-
 #include "ScoreMgr.h"
 #include "StudentMgr.h"
 #include "CourseMgr.h"

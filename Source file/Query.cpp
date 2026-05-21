@@ -1,5 +1,3 @@
-// 负责人 刘勋臻
-
 #include "Query.h"
 #include "StudentMgr.h"
 #include "CourseMgr.h"

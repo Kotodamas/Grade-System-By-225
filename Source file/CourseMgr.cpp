@@ -1,5 +1,3 @@
-// 负责人 潘沛启
-
 #include "CourseMgr.h"
 #include "ScoreMgr.h"
 #include <iostream>
