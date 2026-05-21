@@ -1,3 +1,5 @@
+// 公共头文件，包含数据结构定义和通用函数声明
+
 #ifndef COMMON_H
 #define COMMON_H
 
